@@ -22,7 +22,3 @@
 
 ### Часть 2: Ретест багов  
 [Результаты ретеста](https://docs.google.com/spreadsheets/d/1B2lwVlERXEbM1hnF-lCgblfVyy3kCFFhQ97N53P5dQQ/edit?gid=379530441#gid=379530441)  
-
----
-**Автор**: Гамидов Эльдар, 21 когорта  
-**Спринт**: 1  
