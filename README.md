@@ -1,5 +1,7 @@
-# :mag_right: Инженер по тестированию — Яндекс.Практикум / Testing Engineer — Yandex.Praktikum
+# :mag_right: Инженер по тестированию: от новичка до автоматизатора — Яндекс.Практикум 
 
-*:bookmark: Ссылка на пройденный курс / link course: [Инженер по тестированию: от новичка до автоматизатора](https://practicum.yandex.ru/qa-engineer-full-stack/)*
+*:bookmark: Ссылка на пройденный курс / [Инженер по тестированию: от новичка до автоматизатора](https://practicum.yandex.ru/qa-engineer-full-stack/)*
 
-## :page_facing_up: Описание / Сourse description:
+## :page_facing_up: Описание
+
+
