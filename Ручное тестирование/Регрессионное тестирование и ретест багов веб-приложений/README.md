@@ -1,7 +1,7 @@
 # :chart_with_upwards_trend: Регрессионное тестирование и ретест багов веб-приложений  
 **Проект: Mesto**  
 
-## :bookmark_tabs: Задачи / Tasks  
+## :bookmark_tabs: Задачи
 ### Часть 1: Регрессионное тестирование  
 - Познакомиться с сервисом Mesto :white_check_mark:  
 - Протестировать сервис по тест-кейсам и проставить статусы проверок :white_check_mark:  
@@ -11,7 +11,7 @@
 - Изучить список багов, найденных другими тестировщиками :white_check_mark:  
 - Проверить исправление багов на тестовом стенде (ретест) :white_check_mark:  
 
-## :hammer_and_wrench: Инструменты / Tools  
+## :hammer_and_wrench: Инструменты
 - Google Sheets :bar_chart:  
 - YouTrack :orange_book:  
 - Тренажёр Яндекс.Практикум :desktop_computer:  
