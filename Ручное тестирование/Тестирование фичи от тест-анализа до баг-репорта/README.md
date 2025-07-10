@@ -1,7 +1,7 @@
 # :mag_right: Тестирование фичи: от тест-анализа до баг-репорта  
 **Проект: Яндекс.Маршруты**  
 
-## :bookmark_tabs: Задачи / Tasks  
+## :bookmark_tabs: Задачи
 - Проанализировать требования и выделить объект тестирования :white_check_mark:  
 - Разделить требования к полю ввода часов на:  
   - Классы эквивалентности :white_check_mark:  
@@ -10,7 +10,7 @@
 - Выполнить тесты и зафиксировать результаты :white_check_mark:  
 - Оформить баг-репорты :white_check_mark:  
 
-## :hammer_and_wrench: Инструменты / Tools  
+## :hammer_and_wrench: Инструменты
 - Google Sheets :bar_chart:  
 - YouTrack :orange_book:  
 - Тренажёр Яндекс.Практикум :desktop_computer:  
