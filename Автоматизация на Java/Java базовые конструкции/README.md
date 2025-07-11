@@ -29,22 +29,24 @@
 - Maven (pom.xml) :package:  
 - IntelliJ IDEA :computer:  
 
-## :page_facing_up: Структура проекта  
+## :file_folder: Структура проекта
 
+```
 src/
-├── main/
-│ ├── java/
-│ │ ├── model/
-│ │ │ ├── constants/
-│ │ │ │ ├── Discount.java
-│ │ │ │ └── Colour.java
-│ │ │ ├── Food.java
-│ │ │ ├── Meat.java
-│ │ │ └── Apple.java
-│ │ ├── service/
-│ │ │ └── ShoppingCart.java
-│ │ └── Main.java
-└── pom.xml
+└── main/
+    ├── java/
+    │   ├── model/
+    │   │   ├── constants/
+    │   │   │   ├── Discount.java
+    │   │   │   └── Colour.java
+    │   │   ├── Food.java
+    │   │   ├── Meat.java
+    │   │   └── Apple.java
+    │   ├── service/
+    │   │   └── ShoppingCart.java
+    │   └── Main.java
+    └── pom.xml
+```
 
 ---
 **Как запустить**:  
