@@ -35,12 +35,12 @@ src/
 ├── main/
 │ ├── java/
 │ │ ├── model/
-│ │ │ ├── constants/ 
+│ │ │ ├── constants/
 │ │ │ │ ├── Discount.java
 │ │ │ │ └── Colour.java
-│ │ │ ├── Food.java 
-│ │ │ ├── Meat.java 
-│ │ │ └── Apple.java 
+│ │ │ ├── Food.java
+│ │ │ ├── Meat.java
+│ │ │ └── Apple.java
 │ │ ├── service/
 │ │ │ └── ShoppingCart.java
 │ │ └── Main.java
@@ -50,4 +50,4 @@ src/
 **Как запустить**:  
 1. Клонировать репозиторий.  
 2. Открыть в IntelliJ IDEA как Maven-проект.  
-3. Запустить `Main.java`.  
+3. Запустить `Main.java`. 
