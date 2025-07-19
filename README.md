@@ -36,7 +36,7 @@
 |----------------|-----------------------------------|
 | Автоматизация  | Java, Selenium, REST Assured, JUnit |
 | Тестирование   | Postman, Charles, Android Studio    |
-| Базы данных    | PostgreSQL, DBeaver                 |
+| Базы данных    | PostgreSQL                 |
 | Документация   | Allure, Google Docs, Figma          |
 
 ## :star: Особенности выполнения
